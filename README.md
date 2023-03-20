@@ -9,7 +9,7 @@ Here, we also thank the critical reviewers during the inital submission at Molec
 - to re-analyze the imaging data to take into account the variable GFP-G3BP1 (and GFP-Caprin-1) expression
 - to establish in vitro reconstituted condensate assays
 
-Data used to generate the figures have also been depostited at [Zenodo](https://doi.org/10.5061/dryad.k98sf7mb8). 
+Data used to generate the figures have also been depostited at [DRYAD](https://doi.org/10.5061/dryad.k98sf7mb8). 
 
 ---
 
@@ -31,6 +31,14 @@ Link to analysis/visualisation script: https://github.com/derpaule/RSOB-22-0369_
 ### Cellular stress granule assays 
 Images were captured using a four-megapixel sCMOS digital camera with the manufacturer’s software MetaXpress, and raw TIF files were analyzed using CellProfiler (CP), ImageJ and Rstudio  (McQuin et al., 2018; Schindelin et al., 2012; Wickham, 2017, 2016; Wickham and Grolemund, 2017). 
 Output tables were analysed in R.
+
+### Raw images/western blots
+The images/blots shown as Figures in the main manuscript and the supplement have been deposited as ZIP file at DRYAD.
+The image files are organized in folders/subfolders according to Figure number.
+
+### Notes to high-throughput imaging data
+The image datasets (each about 300 GB in size) are stored on a storage server at Karolinska Institutet.
+Please contact Gerald.McInerney@ki.se if you need access to the raw images.
 
 Link to analysis/visualisation script: tba
 
