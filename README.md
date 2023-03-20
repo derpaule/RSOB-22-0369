@@ -26,7 +26,7 @@ Link to analysis/visualisation script: tba
 ### BLI 
 Measurements were performed on an Octet RED instrument (ForteBio). Raw data were pre-processed by subtracting the reference from the sample surfaces and applying a Savitzky-Golay filter as implemented in the Octet RED analysis software.
 
-Link to analysis/visualisation script: tba
+Link to analysis/visualisation script: https://github.com/derpaule/RSOB-22-0369_BLI
 
 ### Cellular stress granule assays 
 Images were captured using a four-megapixel sCMOS digital camera with the manufacturer’s software MetaXpress, and raw TIF files were analyzed using CellProfiler (CP), ImageJ and Rstudio  (McQuin et al., 2018; Schindelin et al., 2012; Wickham, 2017, 2016; Wickham and Grolemund, 2017). 
