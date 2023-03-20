@@ -17,7 +17,7 @@ Data used to generate the figures have also been depostited at [Zenodo](https://
 Data were obtained using an ITC200 calorimeter (GE Healthcare). Data and binding parameters were pre- analyzed using the MicroCal PeakITC software (Malvern). 
 Final analysis and global fits were performed using NITPIC and Sedphat (Brautigam et al., 2016; Scheuermann and Brautigam, 2015).
 
-Link to analysis/visualisation script: tba
+Link to analysis/visualisation script: https://github.com/derpaule/RSOB-22-0369_ITC
 
 ### nanoDSF 
 Data were obtained using Prometheus (Nanotemper) and pre-analyzed using supplier's software. Data were exported for further analysis and visualization.
