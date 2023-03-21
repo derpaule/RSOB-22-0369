@@ -34,17 +34,21 @@ Measurements were performed on an Octet RED instrument (ForteBio). Raw data were
 
 Link to analysis/visualisation script: https://github.com/derpaule/RSOB-22-0369_BLI
 
-### Cellular stress granule assays 
+### Cellular and reconstituted condensate assays 
 Images were captured using a four-megapixel sCMOS digital camera with the manufacturer’s software MetaXpress, and raw TIF files were analyzed using CellProfiler (CP), ImageJ and Rstudio  (McQuin et al., 2018; Schindelin et al., 2012; Wickham, 2017, 2016; Wickham and Grolemund, 2017). 
 Output tables were analysed in R.
+
+#### G3BP mutants
+Cellprofiler pipelines uploaded as pipelines_G3BP1.zip
+may be useful for your own data
+
+#### Notes to high-throughput imaging data
+The image datasets (each about 300 GB in size) are stored locally at Karolinska Institutet. Please contact Gerald.McInerney@ki.se if you need access to the raw images.
+Note that images _w3 were offset from w2 images by 4pixels which was corrected using Fiji using batch processing - the macro file was deposited on DRYAD.
 
 ### Raw images/western blots
 The images/blots shown as Figures in the main manuscript and the supplement have been deposited as ZIP file at DRYAD.
 The image files are organized in folders/subfolders according to Figure number.
-
-### Notes to high-throughput imaging data
-The image datasets (each about 300 GB in size) are stored on a storage server at Karolinska Institutet.
-Please contact Gerald.McInerney@ki.se if you need access to the raw images.
 
 Link to analysis/visualisation script: tba
 
