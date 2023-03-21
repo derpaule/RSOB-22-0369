@@ -14,7 +14,7 @@ Data used to generate the figures have also been depostited at [DRYAD](https://d
 ---
 Analysis and visualization scripts of the data are separated by method, and listed here. \
 Note: the scripts are not annotated thoroughly. So you need to be familiar with R and the tidyverse.\
-Plots were saved as postscript files, and edited into publication-quality figures using Adobe Illustrator. \
+Plots were saved as postscript files, and edited into publication-quality figures using Adobe Illustrator. The legend to the pre-figures in the markdown document contain information for which figure they were used.\
 The bookdown document was created based on [bookdown](https://bookdown.org/yihui/bookdown/), and [rtemps](https://github.com/bblodfon/rtemps).
 
 Feel free to contact me if you spot errors, want to develop the scripts into something more useful for the community etc. 
