@@ -27,7 +27,7 @@ Link to analysis/visualisation script: https://github.com/derpaule/RSOB-22-0369_
 
 ### nanoDSF 
 Data were obtained using Prometheus (Nanotemper) and pre-analyzed using supplier's software. Data were exported for further analysis and visualization.
-Link to analysis/visualisation script: tba
+Link to analysis/visualisation script: https://github.com/derpaule/RSOB-22-0369_nanoDSF_IP
 
 ### BLI 
 Measurements were performed on an Octet RED instrument (ForteBio). Raw data were pre-processed by subtracting the reference from the sample surfaces and applying a Savitzky-Golay filter as implemented in the Octet RED analysis software.
