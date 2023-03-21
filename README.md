@@ -12,6 +12,9 @@ Here, we also thank the critical reviewers during the inital submission at Molec
 Data used to generate the figures have also been depostited at [DRYAD](https://doi.org/10.5061/dryad.k98sf7mb8). 
 
 ---
+Analysis and visualization scripts of the data are separated by method, and listed here. \
+Note: the scripts are not annotated thoroughly. So you need to be familiar with R and the tidyverse.\
+Feel free to contact me if you spot errors, want to develop the scripts into something more useful for the community etc. 
 
 ### ITC
 Data were obtained using an ITC200 calorimeter (GE Healthcare). Data and binding parameters were pre- analyzed using the MicroCal PeakITC software (Malvern). 
