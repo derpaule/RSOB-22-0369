@@ -38,10 +38,7 @@ Link to analysis/visualisation script: https://github.com/derpaule/RSOB-22-0369_
 Images were captured using a four-megapixel sCMOS digital camera with the manufacturer’s software MetaXpress, and raw TIF files were analyzed using CellProfiler (CP), ImageJ and Rstudio  (McQuin et al., 2018; Schindelin et al., 2012; Wickham, 2017, 2016; Wickham and Grolemund, 2017). 
 Output tables were analysed in R.
 
-- **High-throughput imaging datasets**
-- **Image datasets** (each about 300 GB in size) are stored locally at Karolinska Institutet. Please contact Gerald.McInerney@ki.se if you need access to the raw images. Note that images _w3 were offset from w2 images by 4pixels which was corrected using Fiji using batch processing - the macro file was deposited on DRYAD.
-If covered by Karolinksa, the data may be uploaded on DRYAD at a later stage.
-
+- **High-throughput imaging datasets** are stored locally at Karolinska Institutet (each about 300 GB in size) . Please contact Gerald.McInerney@ki.se if you need access to the raw images. Note that images _w3 were offset from w2 images by 4pixels which was corrected using Fiji using batch processing - the macro file was deposited on DRYAD. If covered by Karolinksa, the data may be uploaded on DRYAD at a later stage.
 - **G3BP mutants** Cellprofiler pipelines uploaded as pipelines_G3BP1.zip to DRYAD.
 - **Caprin-1/chimera** Cellprofiler pipelines uploaded as pipelines_Caprin1.zip to DRYAD.
 
