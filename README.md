@@ -19,30 +19,50 @@ The bookdown document was created based on [bookdown](https://bookdown.org/yihui
 
 Feel free to contact me if you spot errors, want to develop the scripts into something more useful for the community etc. 
 
-### ITC
+---
+## ITC
 Data were obtained using an ITC200 calorimeter (GE Healthcare). Data and binding parameters were pre- analyzed using the MicroCal PeakITC software (Malvern). 
 Final analysis and global fits were performed using NITPIC and Sedphat (Brautigam et al., 2016; Scheuermann and Brautigam, 2015).
 
 Link to analysis/visualisation script: https://github.com/derpaule/RSOB-22-0369_ITC
 
-### nanoDSF 
+---
+## nanoDSF 
 Data were obtained using Prometheus (Nanotemper) and pre-analyzed using supplier's software. Data were exported for further analysis and visualization.
+
 Link to analysis/visualisation script: https://github.com/derpaule/RSOB-22-0369_nanoDSF_IP
 
-### BLI 
+---
+## BLI 
 Measurements were performed on an Octet RED instrument (ForteBio). Raw data were pre-processed by subtracting the reference from the sample surfaces and applying a Savitzky-Golay filter as implemented in the Octet RED analysis software.
 
 Link to analysis/visualisation script: https://github.com/derpaule/RSOB-22-0369_BLI
 
-### Cellular and reconstituted condensate assays 
-Images were captured using a four-megapixel sCMOS digital camera with the manufacturer’s software MetaXpress, and raw TIF files were analyzed using CellProfiler (CP), ImageJ and Rstudio  (McQuin et al., 2018; Schindelin et al., 2012; Wickham, 2017, 2016; Wickham and Grolemund, 2017). 
+---
+## Cellular and reconstituted condensate assays 
+Images were captured using a four-megapixel sCMOS digital camera with the manufacturer’s software MetaXpress, and raw TIF files were analyzed using CellProfiler (CP), ImageJ and Rstudio  (McQuin et al., 2018; Schindelin et al., 2012; Wickham, 2017, 2016; Wickham and Grolemund, 2017). Note: original images _w3 were offset from w2 by 4 pixels which was corrected using Fiji using batch processing - the corresponding macro file was deposited on DRYAD.  
 Output tables were analysed in R.
 
-- **High-throughput imaging datasets** are stored locally at Karolinska Institutet (each about 300 GB in size) . Please contact Gerald.McInerney@ki.se if you need access to the raw images. Note that images _w3 were offset from w2 images by 4pixels which was corrected using Fiji using batch processing - the macro file was deposited on DRYAD. If covered by Karolinksa, the data may be uploaded on DRYAD at a later stage.
-- **G3BP mutants** Cellprofiler pipelines uploaded as pipelines_G3BP1.zip to DRYAD.
-- **Caprin-1/chimera** Cellprofiler pipelines uploaded as pipelines_Caprin1.zip to DRYAD.
+### High-throughput cellular imaging datasets 
 
-### Raw images/western blots
+**DRYAD data related to Figure 5 (G3BP1 mutants)** 
+- Cellprofiler pipeline
+  - *pipelines_G3BP1.zip*  
+- Imaging datasets in ZIP folders 
+  -  *img_plate2171.zip* 
+  -  *img_plate2185.zip*
+  -  *img_plate21691.zip*
+
+**DRYAD data related to Figure 7 (Caprin-1 chimera)** 
+ - Cellprofiler pipeline 
+    - *pipelines_Caprin1.zip* / Note: uncertain about 1740 pipeline. there are two saved pipelines which are both uploaded.
+ - Imaging datasets in ZIP folders 
+    - *img_plate1734.zip*
+    - *img_plate1735.zip* 
+    - *img_plate1737.zip*
+
+---
+## Raw images/western blots
 The images/blots shown as Figures in the main manuscript and the supplement have been deposited as ZIP file at DRYAD.
 The image files are organized in folders/subfolders according to Figure number.
 
