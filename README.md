@@ -17,7 +17,7 @@ Note: the scripts are not annotated thoroughly. So you need to be familiar with 
 Plots were saved as postscript files, and edited into publication-quality figures using Adobe Illustrator. The legend to the pre-figures in the markdown document contain information for which figure they were used in the manuscript.\
 The bookdown document was created based on [bookdown](https://bookdown.org/yihui/bookdown/), and [rtemps](https://github.com/bblodfon/rtemps).
 
-Feel free to contact me if you spot errors, want to develop the scripts into something more useful for the community etc. 
+Please reach out to me if you spot errors, have probles with the scripts/data, or want to develop the scripts into something more useful for the community etc. 
 
 ---
 ## ITC
@@ -59,6 +59,7 @@ related to Figures 5 and 7.
   -  *img_plate2171.zip* 
   -  *img_plate2185.zip*
   -  *img_plate21691.zip*
+- Link to analysis/visualisation script: https://github.com/derpaule/RSOB-22-0369_condensates_GFP-G3BP1
 
 **DRYAD data related to Figure 7 (Caprin-1 chimera)** 
  - Cellprofiler pipeline 
@@ -67,6 +68,7 @@ related to Figures 5 and 7.
     - *img_plate1734.zip*
     - *img_plate1735.zip* 
     - *img_plate1737.zip*
+ - Link to analysis/visualisation script: https://github.com/derpaule/RSOB-22-0369_condensates_GFP-Caprin1
 
 ---
 ## Raw images/western blots
