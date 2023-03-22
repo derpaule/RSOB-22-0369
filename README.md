@@ -21,6 +21,8 @@ Feel free to contact me if you spot errors, want to develop the scripts into som
 
 ---
 ## ITC
+related to Figures 2 and 4.
+
 Data were obtained using an ITC200 calorimeter (GE Healthcare). Data and binding parameters were pre- analyzed using the MicroCal PeakITC software (Malvern). 
 Final analysis and global fits were performed using NITPIC and Sedphat (Brautigam et al., 2016; Scheuermann and Brautigam, 2015).
 
@@ -28,12 +30,16 @@ Link to analysis/visualisation script: https://github.com/derpaule/RSOB-22-0369_
 
 ---
 ## nanoDSF 
+related to Figure 4.
+
 Data were obtained using Prometheus (Nanotemper) and pre-analyzed using supplier's software. Data were exported for further analysis and visualization.
 
 Link to analysis/visualisation script: https://github.com/derpaule/RSOB-22-0369_nanoDSF_IP
 
 ---
 ## BLI 
+related to Figure 2.
+
 Measurements were performed on an Octet RED instrument (ForteBio). Raw data were pre-processed by subtracting the reference from the sample surfaces and applying a Savitzky-Golay filter as implemented in the Octet RED analysis software.
 
 Link to analysis/visualisation script: https://github.com/derpaule/RSOB-22-0369_BLI
@@ -44,6 +50,7 @@ Images were captured using a four-megapixel sCMOS digital camera with the manufa
 Output tables were analysed in R.
 
 ### High-throughput cellular imaging datasets 
+related to Figures 5 and 7.
 
 **DRYAD data related to Figure 5 (G3BP1 mutants)** 
 - Cellprofiler pipeline
@@ -63,6 +70,8 @@ Output tables were analysed in R.
 
 ---
 ## Raw images/western blots
+related to Figures 2, 4, 5, 6, 7.
+
 The images/blots shown as Figures in the main manuscript and the supplement have been deposited as ZIP file at DRYAD.
 The image files are organized in folders/subfolders according to Figure number.
 
