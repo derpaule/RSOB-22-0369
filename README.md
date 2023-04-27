@@ -1,4 +1,4 @@
-# Supplementary data to RSOB.220369
+# Supplementary data to RSOB220369
 Code and data associated with our study **"Caprin-1 binding to the critical stress granule protein G3BP1 is influenced by pH"** published in Open Biology with the ID code RSOB-22-0369.
 An earlier version of our study has been posted on [BioRxiv](https://www.biorxiv.org/content/10.1101/2021.02.05.429362v1) on February 05, 2021.
 
