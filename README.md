@@ -59,6 +59,7 @@ related to Figures 5 and 7.
   -  *img_plate2171.zip* 
   -  *img_plate2185.zip*
   -  *img_plate21691.zip*
+- LLPS images and Excel summary in LLPS_GFP-Caprin-1.zip
 - Link to analysis/visualisation script: https://github.com/derpaule/RSOB-22-0369_condensates_GFP-G3BP1
 
 **DRYAD data related to Figure 7 (Caprin-1 chimera)** 
@@ -68,6 +69,7 @@ related to Figures 5 and 7.
     - *img_plate1734.zip*
     - *img_plate1735.zip* 
     - *img_plate1737.zip*
+ - LLPS images and Excel summary in LLPS_GFP-G3BP1.zip
  - Link to analysis/visualisation script: https://github.com/derpaule/RSOB-22-0369_condensates_GFP-Caprin1
 
 ---
