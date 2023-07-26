@@ -76,6 +76,7 @@ related to Figures 5 and 7.
     - *img_plate1734.zip*
     - *img_plate1735.zip* 
     - *img_plate1737.zip*
+    - *img_plate1740.zip*
  - LLPS images and Excel summary in LLPS_GFP-Caprin-1.zip
  - Link to analysis/visualisation script: https://github.com/derpaule/RSOB-22-0369_condensates_GFP-Caprin1
  - Github webpage: https://derpaule.github.io/RSOB-22-0369_condensates_GFP-Caprin1/
